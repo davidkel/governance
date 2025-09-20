@@ -23,7 +23,7 @@ The latest stable release is v0.6.0; we're also continuously publishing unstable
 
 ## Overall Activity in the Past Quarter
 
-Not much activity this quarter as it mainly holiday seasion and other priorities mean that only small updates to the caliper code base have been made. Discord, github issues and Stackoverflow have been monitored and responded to.
+Not much activity this quarter as it mainly holiday season and other priorities mean that only small updates to the caliper code base have been made. Discord, GitHub issues and Stack Overflow have been monitored and responded to.
 
 ## Current Plans
 
